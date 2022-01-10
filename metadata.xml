@@ -39,5 +39,10 @@ l56wZz/TPmcDV1ZcHR4x519B7N+sowJd+g2zYFtGvSxgBUZEPQAZ1PJ3pdeygEVu</ds:X509Certifi
          <md:ServiceName xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:lang="en">Salesforce.com</md:ServiceName>
          <md:RequestedAttribute Name="fiscalNumber" isRequired="true"/>
       </md:AttributeConsumingService>
+      <md:Organization>
+         <md:OrganizationName xml:lang="it">SPID Identity Provider</md:OrganizationName>
+         <md:OrganizationDisplayName xml:lang="it">SPID Identity Provider</md:OrganizationDisplayName>
+         <md:OrganizationURL xml:lang="it">https://spid.identityprovider.it</md:OrganizationURL>
+      </md:Organization>
    </md:SPSSODescriptor>
 </md:EntityDescriptor>
