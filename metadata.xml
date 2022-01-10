@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" entityID="https://padigitale2026--dev1.my.salesforce.com" validUntil="2032-01-10T16:25:39.584Z" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+   <md:SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+      <md:KeyDescriptor use="signing">
+         <ds:KeyInfo>
+            <ds:X509Data>
+               <ds:X509Certificate>MIIErDCCA5SgAwIBAgIOAX5Em78KAAAAAEqXycMwDQYJKoZIhvcNAQELBQAwgZAx
+KDAmBgNVBAMMH1NlbGZTaWduZWRDZXJ0XzEwSmFuMjAyMl8xNTI5MjQxGDAWBgNV
+BAsMDzAwRDFxMDAwMDAwOGlHazEXMBUGA1UECgwOU2FsZXNmb3JjZS5jb20xFjAU
+BgNVBAcMDVNhbiBGcmFuY2lzY28xCzAJBgNVBAgMAkNBMQwwCgYDVQQGEwNVU0Ew
+HhcNMjIwMTEwMTUyOTI0WhcNMjMwMTEwMTIwMDAwWjCBkDEoMCYGA1UEAwwfU2Vs
+ZlNpZ25lZENlcnRfMTBKYW4yMDIyXzE1MjkyNDEYMBYGA1UECwwPMDBEMXEwMDAw
+MDA4aUdrMRcwFQYDVQQKDA5TYWxlc2ZvcmNlLmNvbTEWMBQGA1UEBwwNU2FuIEZy
+YW5jaXNjbzELMAkGA1UECAwCQ0ExDDAKBgNVBAYTA1VTQTCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAMIvCpJBGeTZ0kXBrKFhKuTMngJvkb920VM1P1q8
+da7A2v2NYRj/WsGrEefRMaR+Kltr/uE65zMHQoFsRV39+y4+H20LD8eqYuAmQylG
+vTz2/Y2kcn8hzOScd1F4czA2gL9Qwvrz7qKs2Na8FZzszLTqrymCzMSZ9k8eDWJ0
+IACc08/ETer5iCGeU7MaWkyEQORslOb5BagXQaQjdCLcAsJMxvIQO94hmhIMZuIR
+g3gvl3MgzzK51CF/ITmRZBwNx0QPaxOmhWCaKrlG7EVYoaHaeKt5AbcZbcX50Jxh
+Hfo5ixvmCe9tKb9bE0sGfjq9SWQYFT8/MwDpUudFvZXCyGcCAwEAAaOCAQAwgf0w
+HQYDVR0OBBYEFBlcbt2BGSYILo2YSKft1DQ4NMEEMA8GA1UdEwEB/wQFMAMBAf8w
+gcoGA1UdIwSBwjCBv4AUGVxu3YEZJggujZhIp+3UNDg0wQShgZakgZMwgZAxKDAm
+BgNVBAMMH1NlbGZTaWduZWRDZXJ0XzEwSmFuMjAyMl8xNTI5MjQxGDAWBgNVBAsM
+DzAwRDFxMDAwMDAwOGlHazEXMBUGA1UECgwOU2FsZXNmb3JjZS5jb20xFjAUBgNV
+BAcMDVNhbiBGcmFuY2lzY28xCzAJBgNVBAgMAkNBMQwwCgYDVQQGEwNVU0GCDgF+
+RJu/CgAAAABKl8nDMA0GCSqGSIb3DQEBCwUAA4IBAQAh+uWcfPQosjvkGvw1oJQj
+pM0sUjnRiRSYAtOCxyURZhYFpElaI1Da0QwGNYejU0faq71k6lgM+5gmCWdAyOnb
+ILc2Bq8m+RTOplKuNEYQYSoFDKr3HUmja51HHZZJoGwbtW67Pa2Ne8Nm8JRFL5Y6
+GvXIQhuE6Mf79T+KzOvrV6LB5jBvTNvsn+2878tKpVUcY4szp4zkOd4+QQ1pL1LK
+9UkW9yLtr1rBX7NC7IBCjcSGnmBtpxkqZ0AmblSD7pcbpph0A7h6X+G82s6z1iTo
+l56wZz/TPmcDV1ZcHR4x519B7N+sowJd+g2zYFtGvSxgBUZEPQAZ1PJ3pdeygEVu</ds:X509Certificate>
+            </ds:X509Data>
+         </ds:KeyInfo>
+      </md:KeyDescriptor>
+      <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://padigitale2026--dev1.my.salesforce.com/services/auth/sp/saml2/logout"/>
+      <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://padigitale2026--dev1.my.salesforce.com/services/auth/sp/saml2/logout"/>
+      <md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat>
+      <md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://padigitale2026--dev1.my.salesforce.com" index="0" isDefault="true"/>
+      <md:AttributeConsumingService index="0" isDefault="true">
+         <md:ServiceName xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:lang="en">Salesforce.com</md:ServiceName>
+         <md:RequestedAttribute Name="fiscalNumber" isRequired="true"/>
+      </md:AttributeConsumingService>
+   </md:SPSSODescriptor>
+</md:EntityDescriptor>
