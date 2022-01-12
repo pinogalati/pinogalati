@@ -8,7 +8,7 @@
 					<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
 					<ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
 				</ds:Transforms>
-				<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+				<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
 				<ds:DigestValue>EhYg/i5MmPilMqEYSiGW8k0UHdQ=</ds:DigestValue>
 			</ds:Reference>
 		</ds:SignedInfo>
