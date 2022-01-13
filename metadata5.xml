@@ -88,7 +88,7 @@ l56wZz/TPmcDV1ZcHR4x519B7N+sowJd+g2zYFtGvSxgBUZEPQAZ1PJ3pdeygEVu</ds:X509Certifi
 		</md:KeyDescriptor>
 		<md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://padigitale2026--dev1.my.salesforce.com/services/auth/sp/saml2/logout"/>
 		<md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://padigitale2026--dev1.my.salesforce.com/services/auth/sp/saml2/logout"/>
-		<md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat>
+		<md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat>
 		<md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://padigitale2026--dev1.my.salesforce.com" index="0" isDefault="true"/>
 		<md:AttributeConsumingService index="0" isDefault="true">
 			<md:ServiceName xml:lang="it">MITD</md:ServiceName>
