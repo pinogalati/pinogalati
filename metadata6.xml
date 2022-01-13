@@ -1,9 +1,9 @@
 <md:EntityDescriptor xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" xmlns:spid="https://spid.gov.it/saml-extensions" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" entityID="https://padigitale2026--dev1.my.salesforce.com" validUntil="2032-01-10T16:25:39.584Z" ID="pfx03d36810-2625-451a-3030-d6c846856273">
-	<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+	<ds:Signature>
 		<ds:SignedInfo>
 			<ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
 			<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
-			<ds:Reference URI="#_b179553a1a2ef4c501d7c9cb08e499f4470ea879">
+			<ds:Reference URI="">
 				<ds:Transforms>
 					<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
 					<ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
