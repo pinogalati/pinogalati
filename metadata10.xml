@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor entityID="https://padigitale2026--dev1.my.salesforce.com" validUntil="2032-01-10T16:25:39.584Z" ID="_328d0eff9a62e39c62162e4fadeeb525e154c61e" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" xmlns:spid="https://spid.gov.it/saml-extensions" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
-   <ds:Signature><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference URI="#_328d0eff9a62e39c62162e4fadeeb525e154c61e"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>g58kO/f0kh4LgmKy88J0mfp75WRjjCtXhYcX3gcqPRw=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>kgwZrrLo5hO4PrQRU3Ug03yJENh/VUIQDOmm3y/Qq6qPmFSYFL9TyyWCjJZFePnfuz6jj4I1ArFI
-/xKbkBYtLmeeRhH2i9fSS0JO65vH4buUZmlcuL5FkQcD20mlb0H18sa2VqfW66bInk51l6rHJVZ8
-ENQ1/XZAsstJQ5bd2Qvodjk7n7yLMlADpTk8DtO+r9AIaq4AlV2V/gJ5VYIcz6z7KGV2a1x+sidX
-9QKX73R8Y4q9b3JQgQWycqjHsLvtbVYET/TJyjHoIWtTCMWQ7ISCCGndG+wXtSE2gHnQ28hMrlL/
-NS76C0omvNh7wdZ8tv1P8IS1iTIwdd6gjUrB7A==</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>wi8KkkEZ5NnSRcGsoWEq5MyeAm+Rv3bRUzU/Wrx1rsDa/Y1hGP9awasR59ExpH4qW2v+4TrnMwdC
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor entityID="https://padigitale2026--dev1.my.salesforce.com" validUntil="2032-01-10T16:25:39.584Z" ID="_381450e316af5373c10ccd7ff25557c46eae7a3c" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" xmlns:spid="https://spid.gov.it/saml-extensions" xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+   <ds:Signature><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference URI="#_381450e316af5373c10ccd7ff25557c46eae7a3c"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>XPryHdAdcI2FhqV5e/ZtK2ZQBz2vyxtGX3c1jrRqzTY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>MNkjKv6vNAG61LgUxn7aWUKyoytPHiZr7RhxeFOcPbnZH8fDoa5MopCtBnM81RPenGT92k8zKTrV
+h73hPJe09K8tSCXR2zWv9SqBRA7Bvosa37JSAzcWDcHtldYLAOnAF/lk/6+ugHnO7yCgsPL/lXLV
+PPBfE+LMqSYPEiXFiTOrJIpU/VhEHG/GEV2+iDSRZVUTPCwL254jpOjtDPMXBu2CHNx7XZI50ltX
+FLDJjVloHdtIkYnfzZ6qJYgacDfReGafDd9zWidSkm3GLUXJqPCGgCVGNhmMJe2Bncp5RS/jV+1h
+fye+muBf4txdFylOmTKZoIX595o3mcpEwDY4hg==</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>wi8KkkEZ5NnSRcGsoWEq5MyeAm+Rv3bRUzU/Wrx1rsDa/Y1hGP9awasR59ExpH4qW2v+4TrnMwdC
 gWxFXf37Lj4fbQsPx6pi4CZDKUa9PPb9jaRyfyHM5Jx3UXhzMDaAv1DC+vPuoqzY1rwVnOzMtOqv
 KYLMxJn2Tx4NYnQgAJzTz8RN6vmIIZ5TsxpaTIRA5GyU5vkFqBdBpCN0ItwCwkzG8hA73iGaEgxm
 4hGDeC+XcyDPMrnUIX8hOZFkHA3HRA9rE6aFYJoquUbsRVihodp4q3kBtxltxfnQnGEd+jmLG+YJ
@@ -62,7 +62,7 @@ l56wZz/TPmcDV1ZcHR4x519B7N+sowJd+g2zYFtGvSxgBUZEPQAZ1PJ3pdeygEVu</ds:X509Certifi
       </md:KeyDescriptor>
       <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://padigitale2026--dev1.my.salesforce.com/services/auth/sp/saml2/logout" />
       <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://padigitale2026--dev1.my.salesforce.com/services/auth/sp/saml2/logout" />
-      <md:NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:unspecified</md:NameIDFormat>
+      <md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat>
       <md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://padigitale2026--dev1.my.salesforce.com" index="0" isDefault="true" />
       <md:AttributeConsumingService index="0" isDefault="true">
          <md:ServiceName xml:lang="it" xmlns:xml="http://www.w3.org/XML/1998/namespace">MITD</md:ServiceName>
