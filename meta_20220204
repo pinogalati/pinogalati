@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><md:EntityDescriptor entityID="https://padigitale2026--dev2.my.salesforce.com" validUntil="2032-02-04T18:19:56.663Z" ID="_ba0b602fe433ad920220f618366ea9c306ce743f" xmlns:md="urn:oasis:names:tc:SAML:2.0:metadata" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:spid="https://spid.gov.it/saml-extensions">
+   <ds:Signature><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256" /><ds:Reference URI="#_ba0b602fe433ad920220f618366ea9c306ce743f"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><ds:Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256" /><ds:DigestValue>79Vw0ZAw9GFX+10Kw84B535IOc/sGVDwqW+ZxjgsCFI=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue>pVXv042aLNf9x/FMa1mWKpaVUowQHqxKYbAt99aqG13Y7bdWr2QKnh9/rlPnl8aIkLfUYnC3A5lh
+clLMAARZjedGWpfx71JoDHhwIRIA1VfaOH2Usm5POEeXJvAMBcBmLugXXBuBflOYpTLITL5q5lGp
+p3YBmBFIQA9uXg+8ihkAX9/3DDiPwcExBaiSdhpMNwXeE4+NwnlhBh3N834OlkUlj+tOuflrrEqN
+HmcGuq2k4mCnBF9vNNv3X8JrzSnrKIcVbHC7gQ09TOgd15aU3od+2emG023YMaiAeYYOEgPtzx+3
+LxPqth4rMx1tXxM0ZEzn/OoHMG1XA4XHCn+lNg==</ds:SignatureValue><ds:KeyInfo><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>tjBeQspwYCNZ1uhGd/zHYbULVpRWYAKRM176MYwgruEaQRCvbdmLYI7h9rfoX8czWvOhlU1HAqoq
+qr1gbj5QxqxVordvfBHQ480jV3K63AJSwH56/5eVAewPAGNOAO1cAE19xXG2JytEJuXERjjdK2AO
+VDyR/MDWls4rh/J4fWylmkHTIGS9GIwxYD++Skuc3HP6LlIIitYqNj1vJ0YkwN+LpEVw7j9VLvOI
+aTGhiHzeiRN0r5jDC+ZOqHKoqGiNFeliFmroU25XDqUfK2CYAPi+KDV+BYYYLnasIEejkA/IwkRm
+UCatuxJASc7YGMdUAs5+b8lkvOSIL5wSPXA2AQ==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue><ds:X509Data><ds:X509Certificate>MIIF7DCCBNSgAwIBAgIURiVZJoTbJr1DgZJq8AydUtECOhowDQYJKoZIhvcNAQELBQAwgcsxNDAy
+BgNVBAoMK0RpcGFydGltZW50byBwZXIgbGEgdHJhc2Zvcm1hemlvbmUgZGlnaXRhbGUxKDAmBgNV
+BAMMH1NlbGZTaWduZWRDZXJ0XzEwSmFuMjAyMl8xNTI5MjQxOTA3BgNVBFMMMGh0dHBzOi8vcGFk
+aWdpdGFsZTIwMjYuZ292Lml0L3NhbWwyL21ldGFkYXRhLnhtbDESMBAGA1UEYQwJUEE6SVQtUENN
+MQswCQYDVQQGEwJJVDENMAsGA1UEBwwEUm9tYTAeFw0yMjAyMDQxNDUyMTJaFw0yMzAyMDQxNDUy
+MTJaMIHLMTQwMgYDVQQKDCtEaXBhcnRpbWVudG8gcGVyIGxhIHRyYXNmb3JtYXppb25lIGRpZ2l0
+YWxlMSgwJgYDVQQDDB9TZWxmU2lnbmVkQ2VydF8xMEphbjIwMjJfMTUyOTI0MTkwNwYDVQRTDDBo
+dHRwczovL3BhZGlnaXRhbGUyMDI2Lmdvdi5pdC9zYW1sMi9tZXRhZGF0YS54bWwxEjAQBgNVBGEM
+CVBBOklULVBDTTELMAkGA1UEBhMCSVQxDTALBgNVBAcMBFJvbWEwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQC2MF5CynBgI1nW6EZ3/MdhtQtWlFZgApEzXvoxjCCu4RpBEK9t2YtgjuH2
+t+hfxzNa86GVTUcCqiqqvWBuPlDGrFWit298EdDjzSNXcrrcAlLAfnr/l5UB7A8AY04A7VwATX3F
+cbYnK0Qm5cRGON0rYA5UPJH8wNaWziuH8nh9bKWaQdMgZL0YjDFgP75KS5zcc/ouUgiK1io2PW8n
+RiTA34ukRXDuP1Uu84hpMaGIfN6JE3SvmMML5k6ocqioaI0V6WIWauhTblcOpR8rYJgA+L4oNX4F
+hhgudqwgR6OQD8jCRGZQJq27EkBJztgYx1QCzn5vyWS85IgvnBI9cDYBAgMBAAGjggHEMIIBwDAJ
+BgNVHRMEAjAAMA4GA1UdDwEB/wQEAwIGwDBzBgNVHSAEbDBqMB8GAytMEDAYMBYGCCsGAQUFBwIC
+MAoMCEFnSURyb290MCAGBCtMEAYwGDAWBggrBgEFBQcCAjAKDAhhZ0lEY2VydDAlBgYrTBAEAgEw
+GzAZBggrBgEFBQcCAjANDAtjZXJ0X1NQX1B1YjAdBgNVHQ4EFgQU2ddsXNrk3ExTUPEHMw4tESQ+
+ANowggENBgNVHSMEggEEMIIBAIAU2ddsXNrk3ExTUPEHMw4tESQ+ANqhgdGkgc4wgcsxNDAyBgNV
+BAoMK0RpcGFydGltZW50byBwZXIgbGEgdHJhc2Zvcm1hemlvbmUgZGlnaXRhbGUxKDAmBgNVBAMM
+H1NlbGZTaWduZWRDZXJ0XzEwSmFuMjAyMl8xNTI5MjQxOTA3BgNVBFMMMGh0dHBzOi8vcGFkaWdp
+dGFsZTIwMjYuZ292Lml0L3NhbWwyL21ldGFkYXRhLnhtbDESMBAGA1UEYQwJUEE6SVQtUENNMQsw
+CQYDVQQGEwJJVDENMAsGA1UEBwwEUm9tYYIURiVZJoTbJr1DgZJq8AydUtECOhowDQYJKoZIhvcN
+AQELBQADggEBAGZDUhULg5hVxOp+hsQyiUnWDXNGJ6zNJUddvW6XTcXP5biHB6K71emjYRUkGcIR
+mPsO3Rqz3IslQbxRbe99PSLsVtlA5uM6IPjUI/IftaVjTUVxTGRu44+4nl6vCG1BZBOWlERxhohH
+rMHDWerkNQ8FXOfMO8USthCr12Z0GHSiDGqEW19EL8l1x3/os+Ysv5YdCTdo/84ragbW0RF93qE3
+iSdEhC1NMv3757iI9ffpSVRGM0VgoiS7srfAh0bLXgeV8OLOwr6C7FI7hhGoDlsaxCyK8NQSg1lM
+zzRlJig2A7oXaFRCjQVHC06roIr7nbiobokSu3rZkUzZkjmmTgQ=</ds:X509Certificate></ds:X509Data></ds:KeyInfo></ds:Signature><md:SPSSODescriptor AuthnRequestsSigned="true" WantAssertionsSigned="true" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+      <md:KeyDescriptor use="signing">
+         <ds:KeyInfo>
+            <ds:X509Data>
+               <ds:X509Certificate>MIIF7DCCBNSgAwIBAgIURiVZJoTbJr1DgZJq8AydUtECOhowDQYJKoZIhvcNAQEL
+BQAwgcsxNDAyBgNVBAoMK0RpcGFydGltZW50byBwZXIgbGEgdHJhc2Zvcm1hemlv
+bmUgZGlnaXRhbGUxKDAmBgNVBAMMH1NlbGZTaWduZWRDZXJ0XzEwSmFuMjAyMl8x
+NTI5MjQxOTA3BgNVBFMMMGh0dHBzOi8vcGFkaWdpdGFsZTIwMjYuZ292Lml0L3Nh
+bWwyL21ldGFkYXRhLnhtbDESMBAGA1UEYQwJUEE6SVQtUENNMQswCQYDVQQGEwJJ
+VDENMAsGA1UEBwwEUm9tYTAeFw0yMjAyMDQxNDUyMTJaFw0yMzAyMDQxNDUyMTJa
+MIHLMTQwMgYDVQQKDCtEaXBhcnRpbWVudG8gcGVyIGxhIHRyYXNmb3JtYXppb25l
+IGRpZ2l0YWxlMSgwJgYDVQQDDB9TZWxmU2lnbmVkQ2VydF8xMEphbjIwMjJfMTUy
+OTI0MTkwNwYDVQRTDDBodHRwczovL3BhZGlnaXRhbGUyMDI2Lmdvdi5pdC9zYW1s
+Mi9tZXRhZGF0YS54bWwxEjAQBgNVBGEMCVBBOklULVBDTTELMAkGA1UEBhMCSVQx
+DTALBgNVBAcMBFJvbWEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC2
+MF5CynBgI1nW6EZ3/MdhtQtWlFZgApEzXvoxjCCu4RpBEK9t2YtgjuH2t+hfxzNa
+86GVTUcCqiqqvWBuPlDGrFWit298EdDjzSNXcrrcAlLAfnr/l5UB7A8AY04A7VwA
+TX3FcbYnK0Qm5cRGON0rYA5UPJH8wNaWziuH8nh9bKWaQdMgZL0YjDFgP75KS5zc
+c/ouUgiK1io2PW8nRiTA34ukRXDuP1Uu84hpMaGIfN6JE3SvmMML5k6ocqioaI0V
+6WIWauhTblcOpR8rYJgA+L4oNX4FhhgudqwgR6OQD8jCRGZQJq27EkBJztgYx1QC
+zn5vyWS85IgvnBI9cDYBAgMBAAGjggHEMIIBwDAJBgNVHRMEAjAAMA4GA1UdDwEB
+/wQEAwIGwDBzBgNVHSAEbDBqMB8GAytMEDAYMBYGCCsGAQUFBwICMAoMCEFnSURy
+b290MCAGBCtMEAYwGDAWBggrBgEFBQcCAjAKDAhhZ0lEY2VydDAlBgYrTBAEAgEw
+GzAZBggrBgEFBQcCAjANDAtjZXJ0X1NQX1B1YjAdBgNVHQ4EFgQU2ddsXNrk3ExT
+UPEHMw4tESQ+ANowggENBgNVHSMEggEEMIIBAIAU2ddsXNrk3ExTUPEHMw4tESQ+
+ANqhgdGkgc4wgcsxNDAyBgNVBAoMK0RpcGFydGltZW50byBwZXIgbGEgdHJhc2Zv
+cm1hemlvbmUgZGlnaXRhbGUxKDAmBgNVBAMMH1NlbGZTaWduZWRDZXJ0XzEwSmFu
+MjAyMl8xNTI5MjQxOTA3BgNVBFMMMGh0dHBzOi8vcGFkaWdpdGFsZTIwMjYuZ292
+Lml0L3NhbWwyL21ldGFkYXRhLnhtbDESMBAGA1UEYQwJUEE6SVQtUENNMQswCQYD
+VQQGEwJJVDENMAsGA1UEBwwEUm9tYYIURiVZJoTbJr1DgZJq8AydUtECOhowDQYJ
+KoZIhvcNAQELBQADggEBAGZDUhULg5hVxOp+hsQyiUnWDXNGJ6zNJUddvW6XTcXP
+5biHB6K71emjYRUkGcIRmPsO3Rqz3IslQbxRbe99PSLsVtlA5uM6IPjUI/IftaVj
+TUVxTGRu44+4nl6vCG1BZBOWlERxhohHrMHDWerkNQ8FXOfMO8USthCr12Z0GHSi
+DGqEW19EL8l1x3/os+Ysv5YdCTdo/84ragbW0RF93qE3iSdEhC1NMv3757iI9ffp
+SVRGM0VgoiS7srfAh0bLXgeV8OLOwr6C7FI7hhGoDlsaxCyK8NQSg1lMzzRlJig2
+A7oXaFRCjQVHC06roIr7nbiobokSu3rZkUzZkjmmTgQ=</ds:X509Certificate>
+            </ds:X509Data>
+         </ds:KeyInfo>
+      </md:KeyDescriptor>
+      <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://padigitale2026--dev2.my.salesforce.com/services/auth/sp/saml2/logout" />
+      <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://padigitale2026--dev2.my.salesforce.com/services/auth/sp/saml2/logout" />
+      <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://dev2-padigitale2026.cs162.force.com/services/auth/sp/saml2/logout" />
+      <md:SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://dev2-padigitale2026.cs162.force.com/services/auth/sp/saml2/logout" />
+      <md:NameIDFormat>urn:oasis:names:tc:SAML:2.0:nameid-format:transient</md:NameIDFormat>
+      <md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://padigitale2026--dev2.my.salesforce.com" index="0" isDefault="true" />
+      <md:AssertionConsumerService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://dev2-padigitale2026.cs162.force.com/login" index="1" />
+      <md:AttributeConsumingService index="0" isDefault="true">
+         <md:ServiceName xml:lang="it" xmlns:xml="http://www.w3.org/XML/1998/namespace">MITD</md:ServiceName>
+         <md:RequestedAttribute Name="fiscalNumber" isRequired="true" />
+		 <md:RequestedAttribute Name="name" />
+         <md:RequestedAttribute Name="familyName" />
+         <md:RequestedAttribute Name="email" />
+         <md:RequestedAttribute Name="mobilePhone" />
+         <md:RequestedAttribute Name="digitalAddress" />
+         <md:RequestedAttribute Name="dateOfBirth" />
+         <md:RequestedAttribute Name="countyOfBirth" />
+         <md:RequestedAttribute Name="gender" />
+         <md:RequestedAttribute Name="placeOfBirth" />
+      </md:AttributeConsumingService>
+	  <md:AttributeConsumingService index="1" isDefault="true">
+         <md:ServiceName xml:lang="it" xmlns:xml="http://www.w3.org/XML/1998/namespace">MITD Portal</md:ServiceName>
+         <md:RequestedAttribute Name="fiscalNumber" isRequired="true" />
+		 <md:RequestedAttribute Name="name" />
+         <md:RequestedAttribute Name="familyName" />
+         <md:RequestedAttribute Name="email" />
+         <md:RequestedAttribute Name="mobilePhone" />
+         <md:RequestedAttribute Name="digitalAddress" />
+         <md:RequestedAttribute Name="dateOfBirth" />
+         <md:RequestedAttribute Name="countyOfBirth" />
+         <md:RequestedAttribute Name="gender" />
+         <md:RequestedAttribute Name="placeOfBirth" />
+      </md:AttributeConsumingService>
+   </md:SPSSODescriptor>
+   <md:Organization>
+      <md:OrganizationName xml:lang="it" xmlns:xml="http://www.w3.org/XML/1998/namespace">Dipartimento per la trasformazione digitale</md:OrganizationName>
+      <md:OrganizationDisplayName xml:lang="it" xmlns:xml="http://www.w3.org/XML/1998/namespace">Dipartimento per la trasformazione digitale</md:OrganizationDisplayName>
+      <md:OrganizationURL xml:lang="it" xmlns:xml="http://www.w3.org/XML/1998/namespace">https://innovazione.gov.it/dipartimento/</md:OrganizationURL>
+   </md:Organization>
+   <md:ContactPerson contactType="other">
+      <md:Extensions>
+         <spid:Public />
+		 <spid:IPACode>PA:IT-PCM_AA1D3A2</spid:IPACode>
+      </md:Extensions>
+      <md:EmailAddress>itcrowd@teamdigitale.governo.it</md:EmailAddress>
+   </md:ContactPerson>
+</md:EntityDescriptor>
